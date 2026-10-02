@@ -1,10 +1,10 @@
-const{LinkedList} = require('./linkedList');
+const{linkedList} = require('./linkedList');
 
-describe('LinkedList',() => {
+describe('linkedList',() => {
     let List;
 
     beforeEach(()=>{
-        list = new LinkedList();
+        list = new linkedList();
     });
 
     test('test that linked list created is empty', ()=> {
