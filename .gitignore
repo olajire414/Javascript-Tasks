@@ -1,3 +1,7 @@
+.idea/
+*.xml
+production/
+
 /node_modules/.bin/baseline-browser-mapping
 /node_modules/.bin/browserslist
 /node_modules/.bin/esparse
