@@ -4,7 +4,7 @@ function compareLength(word1,word2){
 }
 
 function lengthValidator(word){
-    minLength =
+
 }
 
 
